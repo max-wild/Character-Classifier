@@ -4,7 +4,7 @@
 
 Hi, I built a convolutional neural network in PyTorch and trained it to classify characters. I created it to have 4 convolutional layers, 2 max pooling layers, and 1 linear layer, and it was inspired by the pre-existing TinyVGG CNN architecture. It took about 40 minutes to train with the EMNIST dataset on Google Colab.
 
-You can try it yourself with the [live demo on my website here.](https://maxwild.live/models)
+You can try it yourself with the [live demo on my website here.](https://maxwild.tech/models)
 
 ![model specifications](https://github.com/max-wild/Character-Classifier/blob/main/media/model_specs.png?raw=true)
 
